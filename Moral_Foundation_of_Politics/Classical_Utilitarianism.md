@@ -5,6 +5,7 @@ Principle of Utility
 - By "happiness", he understood a predominance of "pleasure" over "pain".
 
 ￼Features of Classical Utilitarianism
+
 1. Comprehensive and deterministic
 1. Naturalistic
 1. Egoistic, but not subjectivist
